@@ -1,4 +1,4 @@
-# DO NOT MAKE A PLAN, DO NOT SUMMARIZE, JUST RESPOND, THATS IT.
+# DO NOT MAKE A PLAN, THATS IT.
 
 markdown_text = """
 Download the following markdown image:
